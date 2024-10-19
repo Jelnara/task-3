@@ -19,11 +19,12 @@ width: 200px;
     float: left;
 }
 .div1{
+border-style: solid;
     color: rgb(64, 64, 247);
  font-family:"Playwrite GB S", cursive;
     width:vh;
     height: 200px;
- background-color:rgb(160, 163, 245) ;
+ background-color :rgb(160, 163, 245) ;
 text-align: center;
 }
 .clear{
@@ -31,6 +32,7 @@ text-align: center;
 }
 .div2{
     color:purple;
+    border-style: solid;
     width: vh;
     height: 200px;
     background-color:rgb(232, 144, 247) ;
@@ -42,6 +44,7 @@ font-family:"Playwrite GB S", cursive;
 }
 .div3{
     color: rgb(250, 50, 177);
+    border-style: solid;
     height: 200px;
     width: vh;
     background-color:rgb(252, 132, 224) ;

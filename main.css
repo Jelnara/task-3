@@ -1,0 +1,50 @@
+.o1{
+height: 1000px;
+background-color: blueviolet;
+color: azure;
+text-align: center;
+background-image: url(./image/pic2.jpeg);
+background-repeat:none;
+background-size: cover;
+}
+ .f1 img{
+float: left;
+height: 200px;
+width: 200px;
+}
+
+.f2 img{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.div1{
+    color: rgb(64, 64, 247);
+ font-family:"Playwrite GB S", cursive;
+    width:vh;
+    height: 200px;
+ background-color:rgb(160, 163, 245) ;
+text-align: center;
+}
+.clear{
+    clear: both;
+}
+.div2{
+    color:purple;
+    width: vh;
+    height: 200px;
+    background-color:rgb(232, 144, 247) ;
+text-align: center;
+font-family:"Playwrite GB S", cursive;
+}
+.clear{
+    clear: both;
+}
+.div3{
+    color: rgb(250, 50, 177);
+    height: 200px;
+    width: vh;
+    background-color:rgb(252, 132, 224) ;
+text-align: center;
+font-family:"Playwrite GB S", cursive;
+}
